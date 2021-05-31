@@ -1,0 +1,86 @@
+#marqueeStyle{
+	background-color: skyblue;
+	font-size: 30px;
+	font-family: 'Sigmar One', cursive;
+}
+#yep{
+	border: 3px;
+	border-style: dashed;
+	height: 400px;
+	width: 400px;
+	text-align: center;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	border-color: chocolate
+}
+body{
+	text-align: center;
+	background-color: gold
+		
+}
+#mapa{
+	font-family: 'Limelight', cursive;
+}
+#dot{
+	font-family: 'Cinzel Decorative', cursive;
+}
+#so{
+	background-color: hotpink
+}
+#main{
+    background-color: lightgreen
+}
+#dat{
+	 background-color: lightblue
+}
+#about{
+	 background-color: lightblue
+}
+#hard{
+	font-family: 'Big Shoulders Display', cursive;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 200px;
+    margin: 8px;
+}
+#d{
+	margin-top: 15px;
+	margin-bottom: 15px
+}
+.fine{
+height: 4px;
+    background-color: black;
+    width: 50px;
+    margin: 8px;	
+}
+
+#du{
+	border: 20px;
+	border-style: groove;
+	border-color: saddlebrown;
+	border-spacing: 0px;
+	padding: 0px;
+	text-align: center;
+    margin-left: 300px;
+	
+}
+#o{
+	background-color: lightcoral
+}
+#s{
+	
+	font-family: 'Pattaya', sans-serif;
+}
+#gallery{
+background-color: cyan	
+}
+#loves{
+	background-color: #F7CAC9;
+	align-content: center
+}
+#all{
+	height: 100%;
+	width: 40%
+}
